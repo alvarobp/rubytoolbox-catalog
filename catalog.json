@@ -362,7 +362,6 @@
           "description": "Libraries and Frameworks to work with Large Language Models (LLMs)",
           "projects": [
             "anthropic",
-            "fast-mcp",
             "gemini-ai",
             "ruby_llm",
             "ruby-openai"
